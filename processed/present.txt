@@ -7,3 +7,4 @@
 10,Kunal,Present
 12,Varun,Present
 13,Meena,Present
+# Cleaned attendance file
